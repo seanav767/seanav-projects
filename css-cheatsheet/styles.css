@@ -1,0 +1,40 @@
+table{
+    border: 5px solid darkmagenta;
+    width: 700px;
+    margin:auto;
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 3px;
+    white-space: normal;
+    font-variant: normal;
+}
+
+body{
+    background-color: limegreen;
+}
+
+th,td{
+    border: 3px solid black;
+}
+
+h2{
+    text-align: center;
+    color: blue;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+thead{
+    background-color: orange;
+}
